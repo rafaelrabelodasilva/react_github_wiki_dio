@@ -1,6 +1,6 @@
 # O projeto ✨
 
-Este é um projeto em React onde o usuário pode pesquisar e interagir com repositórios do GitHub.
+Este projeto foi desenvolvido como parte da atividade do curso "Formação React Developer" da Dio. Nele o usuário pode pesquisar e interagir com repositórios do GitHub.
 
 ## Funcionalidades 📚
 
@@ -9,6 +9,8 @@ Este é um projeto em React onde o usuário pode pesquisar e interagir com repos
 - Ver repositório: Ao clicar em "Ver repositório", o usuário será redirecionado para a página do repositório no GitHub em uma nova aba do navegador.
 
 - Remover repositório: O usuário pode remover um repositório da listagem clicando em "Remover". O repositório será excluído da lista.
+
+![gif](./src/assets/exibindo_git_wiki.gif "Exibindo projeto")
 
 ## Como executar o projeto 🪄
 
